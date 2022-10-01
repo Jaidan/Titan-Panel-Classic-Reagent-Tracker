@@ -28,6 +28,10 @@ addon.spells = {
 			reagent = 22147, -- Flintweed Seed
 		},
 		{	
+			spells = {48477}, -- Rebirth (Rank 7)
+			reagent = 44614, -- Starleaf Seed
+		},
+		{	
 			spells = {21849}, -- Gift of the Wild (Rank 1)
 			reagent = 17021, -- Wild Berries
 		},
@@ -38,6 +42,10 @@ addon.spells = {
 		{	
 			spells = {26991}, -- Gift of the Wild (Rank 3)
 			reagent = 22148, -- Wild Quillvine
+		},
+		{	
+			spells = {48470}, -- Gift of the Wild (Rank 4)
+			reagent = 44605, -- Wild Spineleaf
 		},
 	},
 	MAGE = {
